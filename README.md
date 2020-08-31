@@ -1,1 +1,1 @@
-# UMassDS Project
+# Data Structure and Alogrithm Project
